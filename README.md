@@ -40,5 +40,7 @@ How to set up Service:
 3. Initialize the database:
 3.1 Open Package Manager Console in Visual Studio.
 3.2 Run the following commands:
-dotnet ef migrations add InitialCreate --project {set path}\ArgusMedia.Restaurant\ArgusMedia.Restaurant
-dotnet ef database update --project {set path}\ArgusMedia.Restaurant\ArgusMedia.Restaurant
+dotnet ef migrations add InitialCreate --project {set path}
+dotnet ef database update --project {set path}
+Path into ArgusMedia.Restaurant.csproj file for example:
+ C:\Users\semen\source\repos\ArgusMedia.Restaurant\ArgusMedia.Restaurant\ArgusMedia.Restaurant
