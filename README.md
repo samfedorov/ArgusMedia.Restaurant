@@ -37,9 +37,11 @@ ClientId  is the key identifier in the system and all orders are linked to it.
 How to set up Service:
 1. Build the solution using Visual Studio or dotnet build.
 2. Ensure the application port is free (e.g., check for port conflicts).
-3. Initialize the database:\n
-3.1. Open Package Manager Console in Visual Studio.\n
-3.2. Run the following commands:\n
+3. Initialize the database: 
+
+3.1. Open Package Manager Console in Visual Studio.
+
+3.2. Run the following commands:
 
 dotnet tool install --global dotnet-ef
 
