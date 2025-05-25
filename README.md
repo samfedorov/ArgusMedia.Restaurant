@@ -1,5 +1,5 @@
-# ArgusMedia.Rstaurant
-Rstaurant service
+# ArgusMedia.Restaurant
+Restaurant service
 Run service before run tests.
 
 Available Endpoints:
